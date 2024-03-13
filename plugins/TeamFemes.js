@@ -5,7 +5,7 @@ handler.command = /^(TeamFem)$/i;
 export default handler;
 
 global.TeamFem = `
-🐉 𝗗𝗮𝗺𝘀𝗲𝗹 𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 🐉
+🩵 𝗚𝗼𝘁𝘁𝗶 𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 🤍
 
 *Time Long Fem 💋*
 https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS
