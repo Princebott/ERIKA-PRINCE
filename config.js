@@ -13,9 +13,9 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51926933818", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗗𝗮𝗺𝘀𝗲𝗹 𝗕𝗼𝘁 🐉
-["573127706801", '𝗗𝗮𝗺𝘀𝗲𝗹 𝗕𝗼𝘁 🐉', true],
-["573128594498"]]
+["51926933818", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //🩵 𝗚𝗼𝘁𝘁𝗶 𝗕𝗼𝘁 🤍
+["5493884676462", '🩵 𝗚𝗼𝘁𝘁𝗶 𝗕𝗼𝘁 🤍', true],
+["5493884676295"]]
 
 global.mods = []
 global.prems = []
@@ -112,7 +112,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["573128594498", '𝗗𝗮𝗺𝘀𝗲𝗹 𝗕𝗼𝘁 🐉', 1]]
+["5493884676462", '🩵 𝗚𝗼𝘁𝘁𝗶 𝗕𝗼𝘁 🤍', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,7 +121,7 @@ global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.packname = "𝗧𝗼𝗺𝗮 𝗧𝘂 𝗦𝘁𝗶𝗰𝗸𝗲𝗿"
-global.author = "𝗗𝗮𝗺𝘀𝗲𝗹 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🐉"
+global.author = "𝗚𝗼𝘁𝘁𝗶 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🤍"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -129,36 +129,36 @@ global.author = "𝗗𝗮𝗺𝘀𝗲𝗹 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🐉"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5"
-global.gt = "𝗗𝗮𝗺𝘀𝗲𝗹 𝗕𝗼𝘁 🐉"
+global.gt = "🩵 𝗚𝗼𝘁𝘁𝗶 𝗕𝗼𝘁 🤍"
 
-global.yt = "https://www.instagram.com/lunita_dzn"
-global.yt2 = "https://www.instagram.com/lunita_dzn"
-global.ig = "https://www.instagram.com/lunita_dzn"
-global.md = "https://www.instagram.com/lunita_dzn"
-global.fb = "https://www.instagram.com/lunita_dzn"
-global.tk = "https://www.instagram.com/lunita_dzn"
-global.ths = "https://www.instagram.com/lunita_dzn"
+global.yt = "https://www.instagram.com/rdmel_.dzn"
+global.yt2 = "https://www.instagram.com/rdmel_.dzn"
+global.ig = "https://www.instagram.com/rdmel_.dzn"
+global.md = "https://www.instagram.com/rdmel_.dzn"
+global.fb = "https://www.instagram.com/rdmel_.dzn"
+global.tk = "https://www.instagram.com/rdmel_.dzn"
+global.ths = "https://www.instagram.com/rdmel_.dzn"
 global.paypal = 'https://wa.link/tpa35w'
 global.asistencia = 'https://wa.link/tpa35w' //Contacto
 global.bot = 'https://wa.link/tpa35w' //𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸
 
-global.nna = 'https://www.instagram.com/lunita_dzn' // Cuentas
-global.nn2 = 'https://www.instagram.com/lunita_dzn' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/lunita_dzn' // Help
-global.nn = 'https://www.instagram.com/lunita_dzn' // Grupo 1
-global.nnn = 'https://www.instagram.com/lunita_dzn' // Grupo 2
-global.nnnt = 'https://www.instagram.com/lunita_dzn' // Grupo 3
-global.nnntt = 'https://www.instagram.com/lunita_dzn' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/lunita_dzn' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/lunita_dzn' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/lunita_dzn' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/lunita_dzn' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/lunita_dzn' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/lunita_dzn' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/lunita_dzn' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/lunita_dzn'
-global.channel2 = 'https://www.instagram.com/lunita_dzn'
-global.channel3 = 'https://chat.whatsapp.com/IKeeFD8PDaS7rkyG7a12g1'
+global.nna = 'https://www.instagram.com/rdmel_.dzn' // Cuentas
+global.nn2 = 'https://www.instagram.com/rdmel_.dzn' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/rdmel_.dzn' // Help
+global.nn = 'https://www.instagram.com/rdmel_.dzn' // Grupo 1
+global.nnn = 'https://www.instagram.com/rdmel_.dzn' // Grupo 2
+global.nnnt = 'https://www.instagram.com/rdmel_.dzn' // Grupo 3
+global.nnntt = 'https://www.instagram.com/rdmel_.dzn' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/rdmel_.dzn' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/rdmel_.dzn' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/rdmel_.dzn' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/rdmel_.dzn' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/rdmel_.dzn' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/rdmel_.dzn' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/rdmel_.dzn' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/rdmel_.dzn'
+global.channel2 = 'https://www.instagram.com/rdmel_.dzn'
+global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
