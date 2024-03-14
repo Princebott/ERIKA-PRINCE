@@ -5,7 +5,7 @@ handler.command = /^(TeamFem)$/i;
 export default handler;
 
 global.TeamFem = `
-𝗕𝗼𝘁 𝗞𝗰𝗵𝘂𝗱𝗮𝘀 🦌
+𝗤𝘂𝗲𝘀𝗼 𝗕𝗼𝘁🌸
 
 *Time Long Fem 💋*
 https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS
