@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51926933818", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗕𝗼𝘁 𝗞𝗰𝗵𝘂𝗱𝗮𝘀 🦌
-["51960968915", '𝗕𝗼𝘁 𝗞𝗰𝗵𝘂𝗱𝗮𝘀 🦌', true],
+["51926933818", '𝗣𝗶𝗻𝗴𝘂𝗶 🐧', true], //𝗤𝘂𝗲𝘀𝗼 𝗕𝗼𝘁 🌸
+["51960968915", '𝗤𝘂𝗲𝘀𝗼 𝗕𝗼𝘁 🌸', true],
 ["5493884676295"]]
 
 global.mods = []
@@ -112,7 +112,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51960968915", '𝗕𝗼𝘁 𝗞𝗰𝗵𝘂𝗱𝗮𝘀 🦌', 1]]
+["51960968915", '𝗤𝘂𝗲𝘀𝗼 𝗕𝗼𝘁 🌸', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,7 +121,7 @@ global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.packname = "𝗧𝗼𝗺𝗮 𝗧𝘂 𝗦𝘁𝗶𝗰𝗸𝗲𝗿"
-global.author = "𝗞𝗰𝗵𝘂𝗱𝗮𝘀 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🦌"
+global.author = "𝗤𝘂𝗲𝘀𝗼 𝗦𝘁𝗶𝗰𝗸𝗲𝗿 🌸"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,33 +131,33 @@ global.vs = "1.7.0"
 global.vsJB = "2.5"
 global.gt = "🩵 𝗚𝗼𝘁𝘁𝗶 𝗕𝗼𝘁 🤍"
 
-global.yt = "https://www.instagram.com/xiiomx_ff"
-global.yt2 = "https://www.instagram.com/xiiomx_ff"
-global.ig = "https://www.instagram.com/xiiomx_ff"
-global.md = "https://www.instagram.com/xiiomx_ff"
-global.fb = "https://www.instagram.com/xiiomx_ff"
-global.tk = "https://www.instagram.com/xiiomx_ff"
-global.ths = "https://www.instagram.com/xiiomx_ff"
+global.yt = "https://www.instagram.com/ussxrqueso"
+global.yt2 = "https://www.instagram.com/ussxrqueso"
+global.ig = "https://www.instagram.com/ussxrqueso"
+global.md = "https://www.instagram.com/ussxrqueso"
+global.fb = "https://www.instagram.com/ussxrqueso"
+global.tk = "https://www.instagram.com/ussxrqueso"
+global.ths = "https://www.instagram.com/ussxrqueso"
 global.paypal = 'https://wa.link/tpa35w'
 global.asistencia = 'https://wa.link/tpa35w' //Contacto
 global.bot = 'https://wa.link/tpa35w' //𝗘𝘀𝘁𝗲𝗳𝗮 𝗕𝗼𝘁 🌸
 
-global.nna = 'https://www.instagram.com/xiiomx_ff' // Cuentas
-global.nn2 = 'https://www.instagram.com/xiiomx_ff' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/xiiomx_ff' // Help
-global.nn = 'https://www.instagram.com/xiiomx_ff' // Grupo 1
-global.nnn = 'https://www.instagram.com/xiiomx_ff' // Grupo 2
-global.nnnt = 'https://www.instagram.com/xiiomx_ff' // Grupo 3
-global.nnntt = 'https://www.instagram.com/xiiomx_ff' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/xiiomx_ff' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/xiiomx_ff' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/xiiomx_ff' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/xiiomx_ff' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/xiiomx_ff' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/xiiomx_ff' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/xiiomx_ff' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/xiiomx_ff'
-global.channel2 = 'https://www.instagram.com/xiiomx_ff'
+global.nna = 'https://www.instagram.com/ussxrqueso' // Cuentas
+global.nn2 = 'https://www.instagram.com/ussxrqueso' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/ussxrqueso' // Help
+global.nn = 'https://www.instagram.com/ussxrqueso' // Grupo 1
+global.nnn = 'https://www.instagram.com/ussxrqueso' // Grupo 2
+global.nnnt = 'https://www.instagram.com/ussxrqueso' // Grupo 3
+global.nnntt = 'https://www.instagram.com/ussxrqueso' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/ussxrqueso' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/ussxrqueso' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/ussxrqueso' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/ussxrqueso' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/ussxrqueso' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/ussxrqueso' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/ussxrqueso' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/ussxrqueso'
+global.channel2 = 'https://www.instagram.com/ussxrqueso'
 global.channel3 = 'https://chat.whatsapp.com/Ghf2fHMzBLA1iuYAXstOb4'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
