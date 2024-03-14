@@ -5,7 +5,7 @@ handler.command = /^(TeamFem)$/i;
 export default handler;
 
 global.TeamFem = `
-🩵 𝗚𝗼𝘁𝘁𝗶 𝗥𝗲𝗰𝗹𝘂𝘁𝗮𝗺𝗶𝗲𝗻𝘁𝗼𝘀 🤍
+𝗕𝗼𝘁 𝗞𝗰𝗵𝘂𝗱𝗮𝘀 🦌
 
 *Time Long Fem 💋*
 https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS
