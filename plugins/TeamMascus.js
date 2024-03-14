@@ -5,7 +5,7 @@ handler.command = /^(TeamMasc)$/i;
 export default handler;
 
 global.TeamMasc = `
-𝗕𝗼𝘁 𝗞𝗰𝗵𝘂𝗱𝗮𝘀 🦌
+𝗤𝘂𝗲𝘀𝗼 𝗕𝗼𝘁🌸
 
 *🦍 Team Time Long*
 https://chat.whatsapp.com/LILrwBpgQYQ5leRfcBNwyS
